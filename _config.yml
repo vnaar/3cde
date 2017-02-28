@@ -1,1 +1,8 @@
-theme: jekyll-theme-modernist
+# Site settings
+title: 3cde             # title of your website
+SEOTitle: 3cde          # check out docs for more detail
+description: "3cde AI"    # ...
+
+
+# Build settings
+# paginate: 10              # nums of posts in one page
